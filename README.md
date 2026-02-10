@@ -280,3 +280,44 @@ Run tests with:
 ```
 poetry run pytest -s -vv
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## Docker Deployment
+
+This repository has been Dockerized for easy deployment.
+
+- **Official Repository**: [fynnfluegge/codeqai](https://github.com/fynnfluegge/codeqai)
+- **Dockerized by**: [llmsc-security](https://github.com/llmsc-security)
+- **Docker Image**: `fynnfluegge--codeqai_image`
+- **Container**: `fynnfluegge--codeqai_container`
+- **HTTP Service**: `http://127.0.0.1:11060`
+
+For Docker deployment and port mapping details, please visit our [Docker Directory](https://github.com/llmsc-security/docker-yuelin).
